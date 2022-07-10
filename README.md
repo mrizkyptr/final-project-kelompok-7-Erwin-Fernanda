@@ -1,17 +1,17 @@
 Anggota Kelompok:
-- < nama anggota kelompok > 
-- < nama anggota kelompok > 
+- Mohammad Rizky Putra
+- Evrida Indra Pramesti
 
-Nama Mentor: < nama mentor > 
 
-Nama Dataset: <nama dataset, contoh: 'Car Price Prediction' / 'Singapore HDB Resale Price', dst>
+Nama Mentor: Erwin Fernanda
 
-Link Dataset: <link dataset>
+Nama Dataset: Customer Churn
 
-Problem: regression / classification (hapus yang tidak relevan)
+Link Dataset: (https://www.kaggle.com/datasets/barun2104/telecom-churn?datasetId=567482)
 
-Final Model: <nama model akhir, contoh: Linear Regression / Random Forest / dst>
+Problem: classification
 
-Link Repositori: <link menuju repositori ini>
+Final Model: Random Forest
 
-Link PPT: <link presentasi dalam google slides> 
+Link Repositori: (https://github.com/mrizkyptr/final-project-kelompok-7-Erwin-Fernanda)
+Link PPT: (https://docs.google.com/presentation/d/1NE6IuwjGLGEGoxu7mMDvRVQ3tj59c66C8VbqtyaDbsk/edit?usp=sharing) 
